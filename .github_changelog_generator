@@ -1,0 +1,3 @@
+project=changelog-test
+user=pme123
+include-labels=bug,enhancement,backwards-incompatible
