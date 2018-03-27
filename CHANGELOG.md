@@ -1,7 +1,6 @@
 # Change Log
 
-## [Unreleased](https://github.com/pme123/changelog-test/tree/HEAD)
-
+## [1.0.0](https://github.com/pme123/changelog-test/tree/1.0.0) (2018-03-26)
 **Implemented enhancements:**
 
 - Added link to README [\#1](https://github.com/pme123/changelog-test/pull/1) ([pme123](https://github.com/pme123))
