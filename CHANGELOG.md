@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.0](https://github.com/pme123/changelog-test/tree/1.1.0) (2018-03-27)
+[Full Changelog](https://github.com/pme123/changelog-test/compare/1.0.0...1.1.0)
+
+**Implemented enhancements:**
+
+- added branch for next version [\#4](https://github.com/pme123/changelog-test/pull/4) ([pme123](https://github.com/pme123))
+
 ## [1.0.0](https://github.com/pme123/changelog-test/tree/1.0.0) (2018-03-26)
 **Implemented enhancements:**
 
