@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.1.1](https://github.com/pme123/changelog-test/tree/1.1.1) (2018-03-27)
+[Full Changelog](https://github.com/pme123/changelog-test/compare/1.1.0...1.1.1)
+
+**Fixed bugs:**
+
+- First Bug ever [\#6](https://github.com/pme123/changelog-test/issues/6)
+
+**Merged pull requests:**
+
+- now we fixed a bug for \#6 [\#7](https://github.com/pme123/changelog-test/pull/7) ([pme123](https://github.com/pme123))
+
 ## [1.1.0](https://github.com/pme123/changelog-test/tree/1.1.0) (2018-03-27)
 [Full Changelog](https://github.com/pme123/changelog-test/compare/1.0.0...1.1.0)
 
@@ -10,15 +21,6 @@
 **Merged pull requests:**
 
 - added yet another branch for next version [\#5](https://github.com/pme123/changelog-test/pull/5) ([pme123](https://github.com/pme123))
-
-## [1.0.0](https://github.com/pme123/changelog-test/tree/1.0.0) (2018-03-26)
-**Implemented enhancements:**
-
-- Added link to README [\#1](https://github.com/pme123/changelog-test/pull/1) ([pme123](https://github.com/pme123))
-
-**Fixed bugs:**
-
-- Added CHANGELOG and .github\_changelog\_generator [\#2](https://github.com/pme123/changelog-test/pull/2) ([pme123](https://github.com/pme123))
 
 
 
