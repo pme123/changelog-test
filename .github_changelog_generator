@@ -1,3 +1,4 @@
 project=changelog-test
 user=pme123
 include-labels=bug,enhancement,backwards-incompatible
+future-release=1.1.0
