@@ -7,6 +7,10 @@
 
 - added branch for next version [\#4](https://github.com/pme123/changelog-test/pull/4) ([pme123](https://github.com/pme123))
 
+**Merged pull requests:**
+
+- added yet another branch for next version [\#5](https://github.com/pme123/changelog-test/pull/5) ([pme123](https://github.com/pme123))
+
 ## [1.0.0](https://github.com/pme123/changelog-test/tree/1.0.0) (2018-03-26)
 **Implemented enhancements:**
 
